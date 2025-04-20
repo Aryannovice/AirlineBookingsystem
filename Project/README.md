@@ -43,8 +43,8 @@ A Google Cloud project with the Gemini API enabled
 
 Grab the Code
 
-git clone https://github.com/yourusername/albatross-airlines.git
-cd albatross-airlines
+git clone https://github.com/Aryannovice/AirlineBookingsystem.git
+cd to it
 
 Install the Good Stuff
 
